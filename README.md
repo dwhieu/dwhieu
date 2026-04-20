@@ -7,6 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-dwhieu-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwhieu)
 [![Facebook](https://img.shields.io/badge/Facebook-Đặng_Hiếu-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/filwytdnn)
+[![Gmail](https://img.shields.io/badge/Gmail-trunghieuth0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trunghieuth0909@gmail.com)
 
 </div>
 
